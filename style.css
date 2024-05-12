@@ -117,10 +117,12 @@ header .header-link {
     border-radius: 5px;
     padding: 10px;
     color: #fff;
+    font-size: 14px;
 }
 .slider-container .slider .item .buttons .first-link{
     border: 1px solid var(--main-color);
     background-color: var(--main-color);
+    
 }
 .slider-container .slider .item .buttons .first-link:hover{
     background-color: transparent;
@@ -128,6 +130,7 @@ header .header-link {
 .slider-container .slider .item .buttons .sec-link{
     background-color: transparent;
     border: 1px solid var(--main-color);
+    
     
 }
 .slider-container .slider .item .buttons .sec-link:hover {
@@ -428,6 +431,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 8px;
+        font-size: 8px;
     }
 }
 
@@ -463,13 +467,14 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 8px;
+        font-size: 9px;
     }
 }
 
 
 @media  (max-width: 426px) and (min-width: 377px) {
     header .header-link {
-        font-size: 1px;
+        font-size: 10px;
         font-weight: 400;
         margin-right: 10px;
     }
@@ -499,6 +504,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 8px;
+        font-size: 9px;
     }
 }
 
@@ -538,6 +544,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 8px;
+        font-size: 8px;
     }
 }
 
@@ -573,6 +580,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 8px;
+        font-size: 10px;
     }
 }  
 
@@ -608,6 +616,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 8px;
+        
     }
 }  
 
@@ -643,6 +652,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 9px;
+        font-size: 16px;
     }
 }  
 
@@ -680,6 +690,7 @@ header .header-link {
         font-weight: 300;
         border-radius: 5px;
         padding: 10px;
+        font-size: 28px;
     }
     .arrows{
         position: absolute;
