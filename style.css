@@ -334,7 +334,7 @@ header .header-link {
     height: 3px;
     background-color: var(--main-color);
     left: 0;
-    top: 0;
+    bottom: 0;
     
 }
 
